@@ -108,6 +108,17 @@ Database: MySQL (pymysql library)
 
 Contributions are welcome! Fork this repository, create a new branch, and submit a pull request.
 
+
+## 📬 Contact
+
+For inquiries or issues, contact me:
+
+
+Email:pb65rahulsaini@gmail.com
+
+
+Linkedin: https://www.linkedin.com/in/rahul-saini-2b4b33337/
+
 ## 📄 License
 
 This project is Open Source. Use and modify it for personal or educational purposes.
